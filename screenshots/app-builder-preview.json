@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Термин",
+      "hasCanvas": false,
+      "bodyTextLen": 11,
+      "bodyTextHash": "afd9f488fb5bfd84566efb5765b8fddd54a6986e683477193a276efc0a1c6d8c",
+      "bodyTextPrefix": "PRESS SPACE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Термин",
+      "hasCanvas": false,
+      "bodyTextLen": 11,
+      "bodyTextHash": "afd9f488fb5bfd84566efb5765b8fddd54a6986e683477193a276efc0a1c6d8c",
+      "bodyTextPrefix": "PRESS SPACE",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
